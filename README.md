@@ -1,5 +1,11 @@
 The 'Champions-League-Analysis' notebook contains an EDA of the UEFA Champions League 2021/22 Season and also Quarter Finals since 1980. In this repo are also datasets and a PowerPoint presentation file.
 
+Softwares used:
+Python(numpy, pandas, matplotlib, seaborn)
+Jupyter notebook
+
+Dataset source : https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league , https://www.kaggle.com/datasets/johnharshith/uefa-champions-league-quarter-finals-since-1980
+
 A web app version of this project exists.
 Have a look at it here: https://champions-app.streamlit.app/ and ensure to use a dark theme when you land on it!
 
@@ -10,9 +16,7 @@ Some of the Visuals:
 
 ![Attempts3](https://github.com/StormzzG/Champions-League/assets/142024535/f8458fbd-26d2-425b-8417-5b13f6f387cb)
 
-![1980-3](https://github.com/StormzzG/Champions-League/assets/142024535/cc77d756-a076-44bd-beed-8340bba019e7)
 
-![Goals3](https://github.com/StormzzG/Champions-League/assets/142024535/4fb1ffc5-af5c-40a3-a2e1-1d844d618ac8)
 
 
 
