@@ -1,5 +1,10 @@
-Champions League EDA
+**Champions League EDA**
+
 ![UEFA](https://github.com/StormzzG/Champions-League/assets/142024535/04f00db8-ceb6-403c-9db9-9b2ec30e0032)
+
+**Introduction**
+The UEFA Champions League is a Soccer competition league which starts with 32 teams from every top football leagues. These teams compete for the number one position in various matches against each other with the lesser teams being eliminated until the end. The winner gets a `Champions League` title and Champions League Cup.
+
 The 'Champions-League-Analysis' notebook contains an EDA of the UEFA Champions League 2021/22 Season and also Quarter Finals since 1980. In this repo are also datasets and a PowerPoint presentation file.
 
 Softwares used:
