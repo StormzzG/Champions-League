@@ -10,9 +10,9 @@ The `Champions-League-Analysis.ipynb` contains an EDA of the UEFA Champions Leag
 
 Softwares used:
 
-Python(numpy, pandas, matplotlib, seaborn)
+**-Python(numpy, pandas, matplotlib, seaborn)**
 
-Jupyter notebook
+**-Jupyter notebook**
 
 Dataset Source : https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league , https://www.kaggle.com/datasets/johnharshith/uefa-champions-league-quarter-finals-since-1980
 
