@@ -24,7 +24,7 @@ Some of the Dataset Info in Visuals:
 ## Attacking Points for the Players in the UEFA 21/22 Season
 ![Attempts2](https://github.com/StormzzG/Champions-League/assets/142024535/67ec2d60-5ba2-4d5a-8120-9e8e36ebfd33)
 
-## Attempts of Clubs in the Champions League**
+## Attempts of Clubs in the Champions League
 ![Attempts1](https://github.com/StormzzG/Champions-League/assets/142024535/6f2ed911-9b02-467e-b58d-cf1e1bf8d079)
 
 ## Player Positional WorkRates
